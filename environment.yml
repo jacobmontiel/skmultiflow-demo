@@ -1,6 +1,12 @@
-numpy
-matplotlib
-scikit-learn
-pandas
-scikit-multiflow
-ipympl
+name: demo-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - ipympl
+  - nodejs
+  - pip:
+    - scikit-multiflow
