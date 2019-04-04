@@ -1,6 +1,7 @@
-name: demo-environment
+name: skmultiflow-environment
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - numpy
   - scikit-learn
