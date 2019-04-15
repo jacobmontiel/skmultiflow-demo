@@ -2,6 +2,6 @@
 
 # scikit-multiflow demo
 
-A simple demo of `scikit-multiflow`.
+A simple demo of [`scikit-multiflow`](https://scikit-multiflow.github.io/).
 
-Use the binder badge to run the notebook remotely.
+Use the binder badge above to run the notebook remotely.
