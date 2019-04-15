@@ -2,4 +2,6 @@
 
 # scikit-multiflow demo
 
-A simple demo of `scikit-multiflow`
+A simple demo of `scikit-multiflow`.
+
+Use the binder badge to run the notebook remotely.
